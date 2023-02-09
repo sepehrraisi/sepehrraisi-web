@@ -1,22 +1,21 @@
 +++
 title = "About"
-date = "2019-01-25"
-author = "Radek"
+date = "2023-02-9"
+author = "Sepehr Raisi"
 +++
 
-# Hi there
+# Hello there
+Sepehr is an enthusiastic, self-taught, young, developer currently studying at the University of Kharazmi.
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
+He does freelance work, writes for Cool projects, Worked as a front/back-end developer, and is continuously working on personal projects to up his game.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+Look for some of his work & experiments on Arch Linux, Python, AI or a bit of his recent work below:
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+- His **github**, that sources all of his projects.
+- [**Website**](https://sepehrraisi.ir) that features other projects and designs.
+- [**Water**](https://sepehrraisi.ir/webgl-water) is a WebGl project.
 
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+You can find and contact Sepehr via this platforms:
+<!-- - [**Twitter**]() -->
+- Email: [**Sepehr.Raisi@gmail.com**](mailto:sepehr.raisi@gmail.com)
+- Linkedin: [**SepehrRaisi**](https://www.linkedin.com/in/sepehrraisi/)
