@@ -11,7 +11,7 @@ He does freelance work, writes for Cool projects, Worked as a front/back-end dev
 
 Look for some of his work & experiments on Arch Linux, Python, AI or a bit of his recent work below:
 
-- His **github**, that sources all of his projects.
+- His [**github**](https://github.com/sepehrraisi), that sources all of his projects.
 - [**Website**](https://sepehrraisi.ir) that features other projects and designs.
 - [**Water**](https://sepehrraisi.ir/webgl-water) is a WebGl project.
 
