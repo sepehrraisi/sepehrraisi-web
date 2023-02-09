@@ -1,42 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Terminal</description>
+    <title>Sepehr</title>
+    <link>/</link>
+    <description>Recent content on Sepehr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
-      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.&lt;/p&gt;
-&lt;p&gt;We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p&gt;
-&lt;p&gt;This theme is pretty basic and covers all of the essentials. All you have to do is start typing!&lt;/p&gt;
-&lt;p&gt;The theme includes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;5 duotone themes&lt;/strong&gt;, depending on your preferences (orange, red, blue, green, pink)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;&lt;strong&gt;Fira Code&lt;/strong&gt;&lt;/a&gt; as default monospaced font. It&amp;rsquo;s gorgeous!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;really nice, custom duotone&lt;/strong&gt; syntax highlighting based on &lt;a href=&#34;https://prismjs.com&#34;&gt;&lt;strong&gt;PrismJS&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;mobile friendly layout&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;So, there you have it&amp;hellip; enjoy!&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Friend</title>
-      <link>https://example.com/posts/hello/</link>
+      <link>/posts/hello/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/hello/</guid>
+      <guid>/posts/hello/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
 Fusce pharetra suscipit orci nec tempor.</description>
       <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
@@ -55,10 +31,10 @@ Fusce pharetra suscipit orci nec tempor.</description>
     
     <item>
       <title>Showcase</title>
-      <link>https://example.com/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/showcase/</guid>
+      <guid>/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
@@ -128,6 +104,34 @@ Fusce pharetra suscipit orci nec tempor.</description>
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello there Sepehr is an enthusiastic, self-taught, young, developer currently studying at the University of Kharazmi.
+He does freelance work, writes for Cool projects, Worked as a front/back-end developer, and is continuously working on personal projects to up his game.
+Look for some of his work &amp;amp; experiments on Arch Linux, Python, AI or a bit of his recent work below:
+His github, that sources all of his projects. Website that features other projects and designs.</description>
+      <content>&lt;h1 id=&#34;hello-there&#34;&gt;Hello there&lt;/h1&gt;
+&lt;p&gt;Sepehr is an enthusiastic, self-taught, young, developer currently studying at the University of Kharazmi.&lt;/p&gt;
+&lt;p&gt;He does freelance work, writes for Cool projects, Worked as a front/back-end developer, and is continuously working on personal projects to up his game.&lt;/p&gt;
+&lt;p&gt;Look for some of his work &amp;amp; experiments on Arch Linux, Python, AI or a bit of his recent work below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;His &lt;a href=&#34;https://github.com/sepehrraisi&#34;&gt;&lt;strong&gt;github&lt;/strong&gt;&lt;/a&gt;, that sources all of his projects.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sepehrraisi.ir&#34;&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/a&gt; that features other projects and designs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sepehrraisi.ir/webgl-water&#34;&gt;&lt;strong&gt;Water&lt;/strong&gt;&lt;/a&gt; is a WebGl project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can find and contact Sepehr via this platforms:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:sepehr.raisi@gmail.com&#34;&gt;&lt;strong&gt;Sepehr.Raisi@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin: &lt;a href=&#34;https://www.linkedin.com/in/sepehrraisi/&#34;&gt;&lt;strong&gt;SepehrRaisi&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
